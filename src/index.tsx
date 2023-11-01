@@ -1,5 +1,6 @@
-// import { createRoot } from 'react-dom/client'
-// import { App } from './App'
+import ReactDOM from 'react-dom'
+import { App } from './App'
 
-// const root = document.getElementById('root')
-// if (root) createPortal(root).render(<App />)
+ReactDOM.render(
+  <App />, document.getElementById('root')
+)
