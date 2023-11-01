@@ -1,7 +1,7 @@
 export const ComponentTwo = (): JSX.Element => {
   return (
     <div>
-      ComponentTwo
+      {'<-- PLACEHOLDER -->'}
     </div>
   )
 }
