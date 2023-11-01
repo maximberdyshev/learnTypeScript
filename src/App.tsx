@@ -1,6 +1,4 @@
-import { ComponentOne } from './components/ComponentOne'
-import { ComponentThree } from './components/ComponentThree'
-import { ComponentTwo } from './components/ComponentTwo'
+import { ComponentOne, ComponentTwo, ComponentThree } from './components'
 
 export const App = (): JSX.Element => {
   return (
